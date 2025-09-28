@@ -18,15 +18,14 @@ It demonstrates how manual traders can transition smoothly into algo-trading.
 ---
 
 ## 📂 Project Structure
-
 auto-assist-ui/
-├─ src/
-│ ├─ components/ # UI components (modals, option chain, recorder)
-│ ├─ App.jsx # Root app
-│ └─ main.jsx # Entry point
-├─ package.json
-├─ index.html
-└─ README.md
+ ├─ src/
+ │   ├─ components/   # UI components (modals, option chain, recorder)
+ │   ├─ App.jsx       # Root app
+ │   └─ main.jsx      # Entry point
+ ├─ package.json
+ ├─ index.html
+ └─ README.md
 
 
 ---
